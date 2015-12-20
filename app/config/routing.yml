@@ -1,0 +1,7 @@
+le_zouave_media:
+    resource: "@LeZouaveMediaBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

@@ -1,0 +1,3 @@
+le_zouave_media_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: LeZouaveMediaBundle:Default:index }
